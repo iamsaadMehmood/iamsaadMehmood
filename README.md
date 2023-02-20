@@ -1,38 +1,35 @@
-<!-- Intro Text! -->
-<!--  -->
-<!-- <div id="top"></div> -->
 <div align="center">
   <h1> Hey!👋🏻,  I'm... </h1>
   <p>
-    <a href="https://jash13desai.netlify.app/">
-      <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/MyName.svg">
+    <a href="https://saadmehmood.netlify.app/">
+      <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/MyName.svg">
       <!-- Views Counter -->
       <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p>
     </a>
   </p>
 </div>
 
+### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
 - 🔭 &nbsp;I’m currently working on <b>React Native and NestJs Projects.</b>
 - 🌱 &nbsp;I’m currently learning Flutter, React, React Native, NodeJs and NestJs
 - ⚡ &nbsp;Fun fact: I :heart: :cat:s and PS Gaming
 <br/>
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
-<p align="left">
-<a href="https://twitter.com/Real_WarriorEX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Real_WarriorEX" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saadmehmood09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadmehmood09" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:saad.mahmood.904@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="saad.mahmood.904@gmail.com" height="40" width="40"/>&nbsp;&nbsp;&nbsp;
-</p>
-  
-### My Portfolio:
-  
-  <a href="https://saadmehmood.netlify.app/">
-     <img src="https://img.shields.io/badge/portfolio-B6B6B6?style=for-the-badge&logo=portfolio&logoColor=white"></a>
-  </a>
-  
+<a href="https://www.linkedin.com/in/saadmehmood09/">
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/Real_WarriorEX">
+  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
+</a>
+<a href="mailto:saad.mahmood.904@gmail.com">
+  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
+</a>
+
 <br /> 
 
-### My Tech-Stack:
+<!-- Tech Stack -- Starts -->
+### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/techStack.gif" height="31px"> `Tech Stack:`
 
 - Languages and Frameworks
 
@@ -65,21 +62,21 @@
 - For doing projects related to **Building Apps**.
 - Building **APIs for Apps**. -->
 
-## See the Status Here
+### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `See the Status here:`
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamsaadMehmood&theme=dark&background=000000)](https://git.io/streak-stats)
-
-##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=vision-friendly-dark)](https://github.com/iamsaadMehmood/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamsaadMehmood&theme=dark)](https://git.io/streak-stats)
 
 
-📈 my github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=dark)](https://github.com/iamsaadMehmood/github-readme-stats)
+
+
+### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=gotham" alt="iamsaadMehmood" />
 
 ## Go With The Flow
 
-<a href="https://github.com/iamsaadMehmood">
-  <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
+<a href="https://saadmehmood.netlify.app/">
+  <img align="middle" src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/bottomFooter.svg">
 </a>
