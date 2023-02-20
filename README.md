@@ -23,8 +23,11 @@
 &nbsp;<a href="https://twitter.com/Real_WarriorEX">
   <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
 </a>
+&nbsp;<a href="https://www.reddit.com/user/real_warriorex">
+  <img align="center" alt="reddit" width="35px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/reddit.svg"/>
+</a>
 &nbsp;<a href="mailto:saad.mahmood.904@gmail.com">
-  <img align="center" alt="Twitter" width="35px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
+  <img align="center" alt="gmail" width="35px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
 </a>
 
 <br /> 
