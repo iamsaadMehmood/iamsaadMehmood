@@ -41,11 +41,11 @@
   ![image](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=Flutter&logoColor=white)
   ![image](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
 
-- Cloud and Hosting services
+<!-- - Cloud and Hosting services
 
   ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![image](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=31c9c9)
-  <img alt="HEROKU" src="https://img.shields.io/badge/HEROKU%20-%23FF9900.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img alt="HEROKU" src="https://img.shields.io/badge/HEROKU%20-%23FF9900.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> -->
 
 - Backend Frameworks
 
