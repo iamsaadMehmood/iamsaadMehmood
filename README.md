@@ -2,7 +2,7 @@
   <h1> Hey!👋🏻,  I'm... </h1>
   <p>
     <a href="https://saadmehmood.netlify.app/">
-      <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/MyName.svg">
+      <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/MyName.svg">
       <!-- Views Counter -->
       <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p>
     </a>
@@ -73,7 +73,7 @@
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=gotham" alt="iamsaadMehmood" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=gotham" alt="iamsaadMehmood" />
 
 ## Go With The Flow
 
