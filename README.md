@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/Real_WarriorEX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Real_WarriorEX" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saadmehmood09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadmehmood09" height="30" width="40" /></a>
-<a href="mailto:saad.mahmood.904@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="saad.mahmood.904@gmail.com" height="30" width="40" /></a>
+<a href="mailto:saad.mahmood.904@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/gmail.svg" alt="saad.mahmood.904@gmail.com" height="30" width="40" /></a>
 </p>
 
 <br/>
