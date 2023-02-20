@@ -64,16 +64,17 @@
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `See the Status here:`
 
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamsaadMehmood&theme=dark)](https://git.io/streak-stats)
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=dark)](https://github.com/iamsaadMehmood/github-readme-stats)
-
+</div>
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=gotham" alt="iamsaadMehmood" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=gotham" alt="iamsaadMehmood" />
 
 ## Go With The Flow
 
