@@ -2,7 +2,7 @@
 
 - 🌱 &nbsp;I’m currently learning Flutter, React, React Native, NodeJs and NestJs
 - ⚡ &nbsp;Fun fact: I :heart: :cat:s and PS Gaming
-
+<br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamsaadMehmood.iamsaadMehmood)
 
