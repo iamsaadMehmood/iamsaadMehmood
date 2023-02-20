@@ -68,6 +68,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=gotham" alt="iamsaadMehmood" />
+
 ## Go With The Flow
 
 <a href="https://github.com/iamsaadMehmood">
