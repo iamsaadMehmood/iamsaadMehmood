@@ -16,6 +16,9 @@
   </a>&nbsp;&nbsp;
 </table>
 
+![](https://visitor-badge.glitch.me/badge?page_id=iamsaadMehmood)
+![](https://contributors-badge.glitch.me/badge?page_id=iamsaadMehmood)
+
 ### My Website:
 
   <a href="https://saadmehmood.netlify.app/">
