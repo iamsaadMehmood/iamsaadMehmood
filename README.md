@@ -1,12 +1,23 @@
-### Hi there, I'm Saad - Saad Mehmood 👋
+<!-- Intro Text! -->
+<!--  -->
+<!-- <div id="top"></div> -->
+<div align="center">
+  <h1> Hey!👋🏻,  I'm... </h1>
+  <p>
+    <a href="https://jash13desai.netlify.app/">
+      <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/MyName.svg">
+      <!-- Views Counter -->
+      <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p>
+    </a>
+  </p>
+</div>
 
+- 🔭 &nbsp;I’m currently working on <b>React Native and NestJs Projects.</b>
 - 🌱 &nbsp;I’m currently learning Flutter, React, React Native, NodeJs and NestJs
 - ⚡ &nbsp;Fun fact: I :heart: :cat:s and PS Gaming
 <br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=iamsaadMehmood.iamsaadMehmood)
-
-🔗 &nbsp;**Connect with me**
+### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 <p align="left">
 <a href="https://twitter.com/Real_WarriorEX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Real_WarriorEX" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saadmehmood09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadmehmood09" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
