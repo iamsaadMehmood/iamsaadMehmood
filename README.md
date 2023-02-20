@@ -1,20 +1,23 @@
 ### Hi there, I'm Saad - Saad Mehmood 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Real_WarriorEX?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdnaniDev&screen_name=Real_WarriorEX)
+<a href="https://twitter.com/Real_WarriorEX">
+  <img align="left" alt="Saad Mehmood | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/saadmehmood09/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=iamsaadMehmood)
+![](https://visitor-badge.glitch.me/badge?page_id=iamsaadMehmood.iamsaadMehmood)
+
+<br />
+
 
 ## 📫 Find me at:
 
 <table>
   <tr>
-    <a href="https://www.linkedin.com/in/saadmehmood09/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
    <a href="mailto:saad.mahmood.904@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <!-- <a href="https://www.codechef.com/users/devadnani/">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />         -->
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
 </table>
 
@@ -28,8 +31,6 @@
 ### My Tech-Stack:
 
 - Languages and Frameworks
-
-  <!-- ![image](https://img.shields.io/badge/C%2B%2B-232671E5?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
   ![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue)
   ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue)
