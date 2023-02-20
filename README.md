@@ -23,8 +23,7 @@
   <!-- ![image](https://img.shields.io/badge/C%2B%2B-232671E5?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
   ![image](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
-  ![image](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![image](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
+  ![image](https://img.shields.io/badge/React-Native-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
   ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - Cloud and Hosting services
@@ -34,7 +33,7 @@
 
 - Backend Frameworks
 
-  ![image](https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nestjs&logoColor=red)
+  ![image](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=red)
   ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 - Database
@@ -42,15 +41,11 @@
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%2307405e.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-- CI (Continous integration) / CD (Continuous delivery)
 
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
-
-## 👯 I’m open to collaborate on
+<!-- ## 👯 I’m open to collaborate on
 
 - For doing projects related to **Building Apps**.
-- Building **APIs for Apps**.
-
+- Building **APIs for Apps**. -->
 
 ## See the Status Here
 
