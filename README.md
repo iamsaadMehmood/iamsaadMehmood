@@ -18,13 +18,13 @@
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 
 &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saadmehmood09/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/linkedin.svg" />
+  <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/linkedin.svg" />
 </a>
 &nbsp;<a href="https://twitter.com/Real_WarriorEX">
-  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
+  <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
 </a>
 &nbsp;<a href="mailto:saad.mahmood.904@gmail.com">
-  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
+  <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
 </a>
 
 <br /> 
