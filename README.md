@@ -19,7 +19,7 @@
 ### My Website:
 
   <a href="https://saadmehmood.netlify.app/">
-     <img src="https://img.shields.io/badge/portfolio-B6B6B6?style=for-the-badge&logo=website&logoColor=white"></a>
+     <img src="https://img.shields.io/badge/portfolio-B6B6B6?style=for-the-badge&logo=portfolio&logoColor=white"></a>
   </a>
 
 ### My Tech-Stack:
