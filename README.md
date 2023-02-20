@@ -5,9 +5,9 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a marginLeft="5" href="https://twitter.com/Real_WarriorEX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Real_WarriorEX" height="40" width="40" /></a>
-<a marginLeft="5" href="https://www.linkedin.com/in/saadmehmood09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadmehmood09" height="40" width="40" /></a>
-<a marginLeft="5" href="mailto:saad.mahmood.904@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="saad.mahmood.904@gmail.com" height="40" width="40"/>
+<a href="https://twitter.com/Real_WarriorEX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Real_WarriorEX" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saadmehmood09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadmehmood09" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:saad.mahmood.904@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="saad.mahmood.904@gmail.com" height="40" width="40"/>&nbsp;&nbsp;&nbsp;
 </p>
 <br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=iamsaadMehmood.iamsaadMehmood)
