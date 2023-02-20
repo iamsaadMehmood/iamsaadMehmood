@@ -1,11 +1,16 @@
 ### Hi there, I'm Saad - Saad Mehmood 👋
 
-<a href="https://twitter.com/Real_WarriorEX">
-  <img align="left" alt="Saad Mehmood | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/saadmehmood09/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+- 🌱 &nbsp;I’m currently learning Flutter, React, React Native, NodeJs and NestJs
+- ⚡ &nbsp;Fun fact: I :heart: :cat:s and PS Gaming
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/Real_WarriorEX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Real_WarriorEX" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saadmehmood09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadmehmood09" height="30" width="40" /></a>
+<a href="mailto:saad.mahmood.904@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="saad.mahmood.904@gmail.com" height="30" width="40" /></a>
+</p>
+
+<br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamsaadMehmood.iamsaadMehmood)
 ![](https://contributions-badge.glitch.me/badge?page_id=iamsaadMehmood.datetimepicker)
@@ -13,16 +18,6 @@
 
 
 <br />
-
-
-## 📫 Find me at:
-
-<table>
-  <tr>
-   <a href="mailto:saad.mahmood.904@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp;&nbsp;
-</table>
 
 
 ### My Website:
