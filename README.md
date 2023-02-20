@@ -17,7 +17,7 @@
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 
-&nbsp;<a href="https://www.linkedin.com/in/saadmehmood09/">
+&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saadmehmood09/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/linkedin.svg" />
 </a>
 &nbsp;<a href="https://twitter.com/Real_WarriorEX">
