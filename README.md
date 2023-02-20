@@ -23,7 +23,7 @@
   <!-- ![image](https://img.shields.io/badge/C%2B%2B-232671E5?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
   ![image](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
-  ![image](https://img.shields.io/badge/React-Native-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
+  ![image](https://img.shields.io/badge/ReactNative-F7DF1E?style=for-the-badge&logo=react-native&logoColor=black)
   ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - Cloud and Hosting services
