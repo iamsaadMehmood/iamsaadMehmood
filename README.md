@@ -24,7 +24,7 @@
   <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
 </a>
 &nbsp;<a href="mailto:saad.mahmood.904@gmail.com">
-  <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
+  <img align="center" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
 </a>
 
 <br /> 
