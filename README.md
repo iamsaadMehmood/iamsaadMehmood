@@ -1,4 +1,4 @@
-<div backgroundColor="#000000">
+
 
 <div align="center">
   <h1> Hey!👋🏻,  I'm... </h1>
@@ -69,20 +69,19 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamsaadMehmood&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamsaadMehmood&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=dark)](https://github.com/iamsaadMehmood/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=vision-friendly-dark)](https://github.com/iamsaadMehmood/github-readme-stats)
 </div>
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=dark" alt="iamsaadMehmood" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=vision-friendly-dark" alt="iamsaadMehmood" />
 
 ## Go With The Flow
 
 <a href="https://saadmehmood.netlify.app/">
   <img align="middle" src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/bottomFooter.svg">
 </a>
-</div>
