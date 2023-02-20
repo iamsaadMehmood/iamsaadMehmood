@@ -16,17 +16,17 @@
 <br/>
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
-<div align="center">
-<a href="https://www.linkedin.com/in/saadmehmood09/">
+
+- <a href="https://www.linkedin.com/in/saadmehmood09/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Real_WarriorEX">
+- <a href="https://twitter.com/Real_WarriorEX">
   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
 </a>
-<a href="mailto:saad.mahmood.904@gmail.com">
+- <a href="mailto:saad.mahmood.904@gmail.com">
   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
 </a>
-</div>
+
 <br /> 
 
 <!-- Tech Stack -- Starts -->
