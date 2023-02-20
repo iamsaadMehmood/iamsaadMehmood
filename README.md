@@ -60,6 +60,9 @@
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%2307405e.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=iamsaadMehmood&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <!-- ## 👯 I’m open to collaborate on
 
