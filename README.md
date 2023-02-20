@@ -3,7 +3,6 @@
   <p>
     <a href="https://saadmehmood.netlify.app/">
       <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/MyName.svg">
-      <!-- Views Counter -->
       <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p>
     </a>
   </p>
@@ -12,18 +11,19 @@
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
 - 🔭 &nbsp;I’m currently working on <b>React Native and NestJs Projects.</b>
 - 🌱 &nbsp;I’m currently learning Flutter, React, React Native, NodeJs and NestJs
+- 🔖 Check out my Portfolio <a href ="https://saadmehmood.netlify.app/" target="_blank" >here</a>.
 - ⚡ &nbsp;Fun fact: I :heart: :cat:s and PS Gaming
 <br/>
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 
-- <a href="https://www.linkedin.com/in/saadmehmood09/">
+&nbsp;<a href="https://www.linkedin.com/in/saadmehmood09/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Real_WarriorEX">
+&nbsp;<a href="https://twitter.com/Real_WarriorEX">
   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
 </a>
-<a href="mailto:saad.mahmood.904@gmail.com">
+&nbsp;<a href="mailto:saad.mahmood.904@gmail.com">
   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
 </a>
 
