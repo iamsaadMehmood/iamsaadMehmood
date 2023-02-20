@@ -25,6 +25,8 @@
   ![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
   ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
   ![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+  ![image](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![image](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
 
 - Cloud and Hosting services
 
