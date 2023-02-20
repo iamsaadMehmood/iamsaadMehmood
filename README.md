@@ -1,11 +1,10 @@
 <div align="center">
-  <h1> Hey!👋🏻,  I'm... </h1>
-  <p>
+  <h1> Hey!👋🏻,  I'm...
     <a href="https://saadmehmood.netlify.app/">
       <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/MyName.svg">
       <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p>
     </a>
-  </p>
+  </h1>
 </div>
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
