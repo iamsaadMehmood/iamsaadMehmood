@@ -13,8 +13,6 @@
 <a href="mailto:saad.mahmood.904@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="saad.mahmood.904@gmail.com" height="40" width="40"/>&nbsp;&nbsp;&nbsp;
 </p>
   
-<br/>
-  
 ### My Portfolio:
   
   <a href="https://saadmehmood.netlify.app/">
