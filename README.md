@@ -23,6 +23,9 @@
 &nbsp;<a href="https://twitter.com/Real_WarriorEX">
   <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
 </a>
+&nbsp;<a href="https://stackoverflow.com/users/16981415/saad-mehmood">
+  <img align="center" alt="stack overflow" width="35px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/stack-overflow.svg"/>
+</a>
 &nbsp;<a href="https://www.reddit.com/user/real_warriorex">
   <img align="center" alt="reddit" width="35px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/reddit.svg"/>
 </a>
