@@ -17,19 +17,19 @@
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saadmehmood09/">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saadmehmood09/">
   <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/linkedin.svg" />
 </a>
-&nbsp;<a href="https://twitter.com/Real_WarriorEX">
+&nbsp;&nbsp;<a href="https://twitter.com/Real_WarriorEX">
   <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
 </a>
-&nbsp;<a href="https://stackoverflow.com/users/16981415/saad-mehmood">
-  <img align="center" alt="stack overflow" width="35px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/stack-overflow.svg"/>
+&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16981415/saad-mehmood">
+  <img align="center" alt="stack overflow" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/stack-overflow.svg"/>
 </a>
-&nbsp;<a href="https://www.reddit.com/user/real_warriorex">
+&nbsp;&nbsp;<a href="https://www.reddit.com/user/real_warriorex">
   <img align="center" alt="reddit" width="35px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/reddit.svg"/>
 </a>
-&nbsp;<a href="mailto:saad.mahmood.904@gmail.com">
+&nbsp;&nbsp;<a href="mailto:saad.mahmood.904@gmail.com">
   <img align="center" alt="gmail" width="35px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/gmail.svg"/>
 </a>
 
