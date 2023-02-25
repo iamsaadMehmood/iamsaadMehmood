@@ -79,7 +79,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=vision-friendly-dark)](https://github.com/iamsaadMehmood/github-readme-stats)
 </div>
 
-### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> GitHub Stats:
+### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=vision-friendly-dark" alt="github stats" />
 
