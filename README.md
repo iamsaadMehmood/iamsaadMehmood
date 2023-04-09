@@ -18,10 +18,10 @@
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saadmehmood09/">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/iamsaadMehmood/">
   <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/linkedin.svg" />
 </a>
-&nbsp;&nbsp;<a href="https://twitter.com/Real_WarriorEX">
+&nbsp;&nbsp;<a href="https://twitter.com/iamsaadMehmood">
   <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/twitter.svg"/>
 </a>
 &nbsp;&nbsp;<a href="https://stackoverflow.com/users/16981415/saad-mehmood">
