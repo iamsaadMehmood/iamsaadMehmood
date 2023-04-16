@@ -43,6 +43,7 @@
 
   ![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue) &ensp;
   ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue) &ensp;
+  ![image](https://img.shields.io/badge/NODEJS-000000?style=for-the-badge&logo=node.js&logoColor=026e00) &ensp;
   ![image](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=ea2845) &ensp;
   ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &ensp;
   ![image](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue) &ensp;
