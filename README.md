@@ -41,11 +41,11 @@
 
 - Languages and Frameworks
 
-   &ensp;![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue) &ensp;
+  ![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue) &ensp;
   ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue) &ensp;
   ![image](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=026e00) &ensp;
   ![image](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=ea2845) <br/>
-   &ensp;![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &ensp;
+  ![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &ensp;
   ![image](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue) &ensp;
   ![image](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=4285F4) &ensp;
   ![image](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00599C)
