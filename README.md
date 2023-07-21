@@ -10,7 +10,7 @@
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
 - 🔭 &nbsp;I’m currently working on <b>React Native and NestJs Projects.</b>
-- 🌱 &nbsp;I’m currently learning Flutter, React, React Native, NodeJs and NestJs
+- 🌱 &nbsp;I’m currently learning Flutter, Python, FastAPI 
 - 🏆 &nbsp; Colaborator in npm package react-native-datetimepicker.
 - 🔖 Check out my Portfolio <a href ="https://saadmehmood.netlify.app/" target="_blank" >here</a>.
 - ⚡ &nbsp;Fun fact: I :heart: :cat:s and PS Gaming
@@ -66,11 +66,11 @@
 
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%2307405e.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<!-- ## 👯 I’m open to collaborate on
+-->
+ ## 👯 I’m open to collaborate on
 
 - For doing projects related to **Building Apps**.
-- Building **APIs for Apps**. -->
+- Building **APIs for Apps**. 
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `See the Status here:`
 
