@@ -41,15 +41,20 @@
 
 - Languages and Frameworks
 
-
-  &ensp;![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &ensp;
-  ![image](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue) &ensp;
-  ![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue) &ensp;
-  ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue) <br/>
-   &ensp;![image](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=026e00) &ensp;
-  ![image](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=ea2845) &ensp;
-  ![image](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=4285F4) &ensp;
+<div gap='4 4'>
+  
+  &ensp;![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![image](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue)
+  ![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue)
+  ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue)
+  ![image](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=026e00)
+  ![image](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=ea2845)
+  ![image](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=4285F4)
   ![image](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00599C)
+  ![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+  ![image](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
+  
+</div>
 
 
 <!-- - Cloud and Hosting services
@@ -81,12 +86,19 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamsaadMehmood&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamsaadMehmood&theme=gruvbox)](https://github.com/iamsaadMehmood/github-profile-trophy)
 
 </div>
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=vision-friendly-dark" alt="github stats" />
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=vision-friendly-dark" alt="github stats" />
+-->
 
 
 <a href="https://saadmehmood.netlify.app/">
