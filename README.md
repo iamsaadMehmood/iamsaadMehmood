@@ -75,7 +75,7 @@
  ## 👯 I’m open to collaborate on
 
 - For doing projects related to **Building Mobile Apps**.
-- Building **APIs for Apps**. 
+- Building **Restful APIs for Apps**. 
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `See the Status here:`
 
