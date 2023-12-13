@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=40&duration=2000&pause=4000&color=6CC644&background=FFFFFF00&width=1450&height=70&lines=Commit+may+not+be+visible!+But+don't+worry%2C+I+write+code+every+day.+%F0%9F%92%9A)](https://git.io/typing-svg)
+
+
+
 <div align="center">
   <h1> Hey! <img  alt="reddit" width="45px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/hy.gif"/>,  I'm...</h1>
   <p>
@@ -53,6 +57,8 @@
   ![image](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00599C)
   ![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
   ![image](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
+  ![image](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=F57C00)
+  ![image](https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=white)
   
 </div>
 
