@@ -5,7 +5,7 @@
 <div align="center">
   <h1> Hey! <img  alt="reddit" width="45px" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/hy.gif"/>,  I'm...</h1>
   <p>
-    <a href="https://saadmehmood.netlify.app/">
+    <a href="https://iamsaadmehmood.com">
       <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/MyName.svg">
       <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p>
     </a>
@@ -16,7 +16,7 @@
 - 🔭 &nbsp;I’m currently working on <b>React Native and NestJs Projects.</b>
 - 🌱 &nbsp;I’m currently learning Flutter, Python, FastAPI, Go
 - 🏆 &nbsp; Colaborator in npm packages react-native-datetimepicker, react-native-azure-auth.
-- 🔖 Check out my Portfolio <a href ="https://saadmehmood.netlify.app/" target="_blank" >here</a>.
+- 🔖 Check out my Portfolio <a href ="https://iamsaadmehmood.com/" target="_blank" >here</a>.
 - ⚡ &nbsp;Fun fact: I :heart: :cat:s and PS Gaming
 <br/>
 
@@ -107,6 +107,6 @@
 -->
 
 
-<a href="https://saadmehmood.netlify.app/">
+<a href="https://iamsaadmehmood.com/">
   <img align="middle" src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/assets/bottomFooter.svg">
 </a>
