@@ -89,9 +89,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=vision-friendly-dark)](https://github.com/iamsaadMehmood/github-readme-stats)
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=iamsaadMehmood&theme=radical&short_numbers=true&card_width=494&card_height=200" alt="GitHub Streak"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamsaadMehmood&theme=radical&short_numbers=true&card_width=494&card_height=200)](https://git.io/streak-stats)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamsaadMehmood&theme=gruvbox)](https://github.com/iamsaadMehmood/github-profile-trophy)
