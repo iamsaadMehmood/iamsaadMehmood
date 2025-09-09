@@ -53,6 +53,8 @@
   ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue)
   ![image](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=026e00)
   ![image](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=ea2845)
+  ![image](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=ea2845)
+  ![image](https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=ea2845)
   ![image](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=4285F4)
   ![image](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00599C)
   ![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -80,7 +82,9 @@
 -->
  ## 👯 I’m open to collaborate on
 
-- For doing projects related to **Building Mobile Apps**.
+- For developing projects related to **Mobile Apps**.
+- For maintaining existing projects related to **Mobile Apps**.
+- For developing projects related to **Web Apps**.
 - Building **Restful APIs for Apps**. 
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `See the Status here:`
