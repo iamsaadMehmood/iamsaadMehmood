@@ -7,9 +7,13 @@
   <p>
     <a href="https://iamsaadmehmood.com">
       <img src = "https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/MyName.svg">
-      <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p>
+      <!-- <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p> -->
     </a>
   </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamsaadMehmood&color=green)
+![GitHub Stars](https://img.shields.io/github/stars/iamsaadMehmood?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/iamsaadMehmood?style=social)
 </div>
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
@@ -49,6 +53,7 @@
   
   &ensp;![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![image](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue)
   ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue)
   ![image](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=026e00)
@@ -61,6 +66,13 @@
   ![image](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
   ![image](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=F57C00)
   ![image](https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   
 </div>
 
@@ -91,13 +103,13 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadMehmood&layout=compact&theme=vision-friendly-dark)](https://github.com/iamsaadMehmood/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamsaadMehmood&theme=radical&short_numbers=true&card_width=494&card_height=200)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=iamsaadMehmood&theme=dark&hide_border=false)
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamsaadMehmood&theme=gruvbox)](https://github.com/iamsaadMehmood/github-profile-trophy)
+
 
 </div>
 
@@ -105,8 +117,21 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsaadMehmood&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+  <p align="center">
+    <a href="https://github.com/iamsaadMehmood">
+      <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsaadMehmood&theme=react" />
+    </a>
+  </p>
+
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
+
+<div align="center">
+  
+![Snake](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake.svg)
 </div>
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=vision-friendly-dark" alt="github stats" />
 -->
