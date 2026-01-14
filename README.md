@@ -160,7 +160,7 @@
 
 <div align="center">
 
-[![Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsaadMehmood&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsaadMehmood&theme=react&hide_border=true)
 
   
 
