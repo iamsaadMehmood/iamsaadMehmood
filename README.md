@@ -121,19 +121,8 @@
 
 
 ![](https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  <!-- <img
-        align="left"
-        src="https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Langs"
-      /> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsaadMehmood&theme=react)
-
-  <!-- <p align="center">
-    <a href="https://github.com/iamsaadMehmood">
-      <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsaadMehmood&theme=react" />
-    </a>
-  </p> -->
 
 </div>
 
@@ -142,17 +131,6 @@
 ---
 
 ## 🏆 GitHub Profile Trophy
-
-<!-- <p align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img
-      width="800"
-      src="https://github-profile-trophy-silk-six.vercel.app/?username=iamsaadMehmood&column=8&theme=darkhub&no-frame=true&no-bg=true"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p> -->
 
 ![](https://github-profile-trophy-silk-six.vercel.app/?username=iamsaadMehmood&column=8&theme=darkhub&no-frame=true&no-bg=true)
 
