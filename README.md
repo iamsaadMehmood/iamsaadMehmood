@@ -117,22 +117,27 @@
 
 <div align="center">
 
-<img
-        src="https://github-readme-stats-theta-ten-57.vercel.app/api?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-      />
+![](https://github-readme-stats-theta-ten-57.vercel.app/api?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=tru)
 
-      
-  <img
+<!-- <img
+        src="https://github-readme-stats-theta-ten-57.vercel.app/api?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+      /> -->
+
+![](https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- <img
         align="left"
         src="https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Top Langs"
-      />
+      /> -->
 
-  <p align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsaadMehmood&theme=react)
+
+  <!-- <p align="center">
     <a href="https://github.com/iamsaadMehmood">
       <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsaadMehmood&theme=react" />
     </a>
-  </p>
+  </p> -->
+
 </div>
 
 
@@ -141,7 +146,8 @@
 
 ## 🏆 GitHub Profile Trophy
 
-<p align="center">
+<!-- <p align="center">
+
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
     <img
       width="800"
@@ -149,7 +155,9 @@
       alt="GitHub Trophies"
     />
   </a>
-</p>
+</p> -->
+
+![](https://github-profile-trophy-silk-six.vercel.app/?username=iamsaadMehmood&column=8&theme=darkhub&no-frame=true&no-bg=true)
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
 
@@ -161,14 +169,13 @@
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
+<!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
 
 <div align="center">
   
 ![Snake](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake.svg)
-</div>
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsaadMehmood&show_icons=true&theme=vision-friendly-dark" alt="github stats" />
--->
+</div> -->
+
 
 
 <a href="https://iamsaadmehmood.com/">
