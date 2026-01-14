@@ -113,17 +113,51 @@
 
 </div>
 
-### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
+## ⚙️ GitHub Analytics
 
 <div align="center">
 
-[![Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsaadMehmood&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img
+        src="https://github-readme-stats-theta-ten-57.vercel.app/api?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+      />
+
+      
+  <img
+        align="left"
+        src="https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Langs"
+      />
 
   <p align="center">
     <a href="https://github.com/iamsaadMehmood">
       <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsaadMehmood&theme=react" />
     </a>
   </p>
+</div>
+
+
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
+    <img
+      width="800"
+      src="https://github-profile-trophy-silk-six.vercel.app/?username=iamsaadMehmood&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
+
+### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `GitHub Stats:`
+
+<div align="center">
+
+[![Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsaadMehmood&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
 
 </div>
 
