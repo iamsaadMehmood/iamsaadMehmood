@@ -55,6 +55,7 @@
   ![image](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![image](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue)
   ![image](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=026e00)
   ![image](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=ea2845)
@@ -70,7 +71,7 @@
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   
