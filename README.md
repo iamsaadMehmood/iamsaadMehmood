@@ -95,10 +95,9 @@
 -->
  ## 👯 I’m open to collaborate on
 
-- For developing projects related to **Mobile Apps**.
-- For maintaining existing projects related to **Mobile Apps**.
-- For developing projects related to **Web Apps**.
-- Building **Restful APIs for Apps**. 
+- For developing or maintaining projects related to **Mobile Apps**.
+- For developing or maintaining projects related to **Web Apps**.
+- Building or maintaining **Restful APIs for Apps**. 
 
 ### <img align="left" src="https://raw.githubusercontent.com/iamsaadMehmood/iamsaadMehmood/main/gifs/graphUp.gif" height="31px"> `See the Status here:`
 
