@@ -117,9 +117,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats-theta-ten-57.vercel.app/api?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=tru)
-
-
 ![](https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=iamsaadMehmood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsaadMehmood&theme=react)
